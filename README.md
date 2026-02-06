@@ -19,22 +19,23 @@ The project emphasizes scalability, clean architecture, and system-level integra
 
 ## Tech Stack
 
-| Platform | Technology |
-|--------|------------|
+| Component | Technology |
+|---------|------------|
 | Android | Kotlin, Android SDK |
 | Desktop | Java (Windows) |
-| Authentication | Google Authentication |
+| Database | Firebase |
+| Authentication | Google Authentication (Firebase Auth) |
+| Backend | Firebase (Realtime Database / Firestore) |
 | Architecture | Modular & Scalable |
-
 ---
 
 ## Repositories
 
 ### Android Application (Kotlin)
-🔗 https://github.com/your-username/vox-android
+🔗 https://github.com/Midhun1618/VOX-Android
 
 ### Windows Desktop Application (Java)
-🔗 https://github.com/your-username/vox-desktop-java
+🔗 https://github.com/Midhun1618/VOX-PC
 
 > Note: The desktop application currently supports **Windows only**, as it is built using Java with Windows-specific configurations.
 
